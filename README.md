@@ -1,2 +1,2 @@
 # node-socket-chat-room
-simple chat applicatios using rooms
+simple chat application using rooms
